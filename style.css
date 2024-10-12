@@ -1,0 +1,12 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    background: linear-gradient(270deg, #FFB0B0, #FFD09B);
+    color: #333333;
+}
+
+img{
+    width: 30%;
+    height: 30%;
+}
+
+
