@@ -4,6 +4,32 @@ body {
     color: #333333;
 }
 
+.navbar {
+    background-color: #004085;
+}
+.navbar-brand, .nav-link {
+    color: #fff !important;
+}
+.btn-primary {
+    background-color: #ffc107;
+    border-color: #ffc107;
+    color: #004085;
+}
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+}
+.features {
+    text-align: center;
+    margin-top: 50px;
+}
+.footer {
+    background-color: #FFB0B0;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
 img{
     width: 30%;
     height: 30%;
